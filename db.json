@@ -1,0 +1,380 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/102815/280/1/147840447-102815891-1568785088.jpg",
+      "title": "Odoky Axxitude Men Multicolor Round Neck...",
+      "price": "409",
+      "mainPrice": "1099",
+      "off": "63",
+      "color": "red"
+    },
+    {
+      "id": "2",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/97178/280/1/143855284-97178489-1559802229.jpg",
+      "title": "Odoky Men Color Block Round Neck Multicolo...",
+      "price": "439",
+      "mainPrice": "999",
+      "off": "56",
+      "color": "yellow"
+    },
+    {
+      "id": "3",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/114604/280/1/152490260-114604641-1625652916.jpg",
+      "title": "Odoky Olive Black &Orange Round Neck T-...",
+      "price": "319",
+      "mainPrice": "999",
+      "off": "68",
+      "color": "green"
+    },
+    {
+      "id": "4",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/99738/280/1/145797985-99738125-1556899919.jpg",
+      "title": "Odoky Multicolor Cotton Color Block Roun...",
+      "price": "269",
+      "mainPrice": "1999",
+      "off": "87",
+      "color": "brown"
+    },
+    {
+      "id": "5",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/105074/280/1/149074133-105074741-1582107443.jpg",
+      "title": "Odoky Color Blocked Men's Cotton Tshirt...",
+      "price": "299",
+      "mainPrice": "999",
+      "off": "70",
+      "color": "blue"
+    },
+    {
+      "id": "6",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/111843/280/1/151346207-111843447-1604067652.jpg",
+      "title": "Odoky Multi Color Cotton Half Sleeve T-Shirt",
+      "price": "299",
+      "mainPrice": "999",
+      "off": "70",
+      "color": "black"
+    },
+    {
+      "id": "7",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/111843/280/1/151346195-111843403-1604067622.jpg",
+      "title": "Odoky Multi Color Cotton Half Sleeve T-Shirt",
+      "price": "239",
+      "mainPrice": "1098",
+      "off": "78",
+      "color": "yellow"
+    },
+    {
+      "id": "8",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/114604/280/1/152490258-114604639-1625652905.jpg",
+      "title": "Odoky Men Black Printed Snake Round Neck...",
+      "price": "259",
+      "mainPrice": "999",
+      "off": "74",
+      "color": "black"
+    },
+    {
+      "id": "9",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/115432/280/1/152758983-115432191-1662099155.jpg",
+      "title": "Odoky Men's Ganesha Printed Half Sleeves...",
+      "price": "299",
+      "mainPrice": "999",
+      "off": "70",
+      "color": "gray"
+    },
+    {
+      "id": "10",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/104239/280/1/148699721-104239261-1668507497.jpg",
+      "title": "ROARERS Men's Silver Hooded T-Shirt",
+      "price": "349",
+      "mainPrice": "1099",
+      "off": "68",
+      "color": "gray"
+    },
+    {
+      "id": "11",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/108540/280/1/150356721-108540313-1678933181.jpg",
+      "title": "Half Sleeve Polyester Round Neck Printed...",
+      "price": "139",
+      "mainPrice": "999",
+      "off": "86",
+      "color": "yellow"
+    },
+    {
+      "id": "12",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/26953/280/1/90098317-26953753-1662630196.jpg",
+      "title": "DNA Solid Men T Shirt half sleeve fabric 100...",
+      "price": "1600",
+      "mainPrice": "2000",
+      "off": "20",
+      "color": "white"
+    },
+    {
+      "id": "13",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/110834/280/1/151037323-110834669-1601905704.jpg",
+      "title": "MEN'S CASUAL POLO TSHIRT",
+      "price": "1599",
+      "mainPrice": "2999",
+      "off": "47",
+      "color": "red"
+    },
+    {
+      "id": "14",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/117424/280/1/153459972-117424534-1699512607.jpg",
+      "title": "Sthulas Printed Men Round Neck Black T-...",
+      "price": "699",
+      "mainPrice": "1299",
+      "off": "46",
+      "color": "black"
+    },
+    {
+      "id": "15",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/115930/280/1/152920954-115930143-1643709917.jpg",
+      "title": "UDNAG Unisex Round Neck Graphic 'Deat...",
+      "price": "399",
+      "mainPrice": "1999",
+      "off": "80",
+      "color": "white"
+    },
+    {
+      "id": "16",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/92266/280/1/140762259-92266315-1666994107.jpg",
+      "title": "Raabta Fashion Black Yellow Grey Patchw...",
+      "price": "532",
+      "mainPrice": "1699",
+      "off": "69",
+      "color": "gray"
+    },
+    {
+      "id": "17",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/105478/280/1/149231375-105478845-1590328820.jpg",
+      "title": "T Shirt",
+      "price": "499",
+      "mainPrice": "999",
+      "off": "50",
+      "color": "aqua"
+    },
+    {
+      "id": "18",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/94846/280/1/142479694-94846536-1662624714.jpg",
+      "title": "Myky White Regular Fit Solid For Men Pack...",
+      "price": "899",
+      "mainPrice": "1998",
+      "off": "55",
+      "color": "white"
+    },
+    {
+      "id": "19",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/116969/280/1/153320627-116969820-1678924928.jpg",
+      "title": "FastB Men Printed Round Neck Black T-Sh...",
+      "price": "649",
+      "mainPrice": "899",
+      "off": "28",
+      "color": "black"
+    },
+    {
+      "id": "20",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/112977/280/1/151903942-112977432-1664652626.jpg",
+      "title": "Ruggstar Men Grey Round Neck Polyester T...",
+      "price": "179",
+      "mainPrice": "699",
+      "off": "74",
+      "color": "aqua"
+    },
+    {
+      "id": "21",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/114772/280/1/152543927-114772535-1668508691.jpg",
+      "title": "Red Leaf Navy Colour block Men dry-fit Ts...",
+      "price": "199",
+      "mainPrice": "599",
+      "off": "67",
+      "color": "blue"
+    },
+    {
+      "id": "22",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/116338/280/1/153074117-116338862-1654685741.jpg",
+      "title": "Ruggstar best hot selling cotton t-shirt for...",
+      "price": "169",
+      "mainPrice": "599",
+      "off": "72",
+      "color": "gray"
+    },
+    {
+      "id": "23",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/116691/280/1/153189508-116691312-1671794928.jpg",
+      "title": "29K Mens Round Neck Half Sleeve Printed...",
+      "price": "179",
+      "mainPrice": "499",
+      "off": "64",
+      "color": "aqua"
+    },
+    {
+      "id": "24",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/116800/280/1/153267408-116800314-1678945538.jpg",
+      "title": "FastBend 4 x 4 offroad expedition Tshirt...",
+      "price": "799",
+      "mainPrice": "899",
+      "off": "11",
+      "color": "black"
+    },
+    {
+      "id": "25",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/116969/280/1/153320638-116969836-1678938367.jpg",
+      "title": "FastB Men Typography Round Neck White...",
+      "price": "649",
+      "mainPrice": "899",
+      "off": "28",
+      "color": "white"
+    }
+  ],
+  "product2": [
+    {
+      "id": "35",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/114479/320/320/152419020-114479981-1624357888.jpg",
+      "title": "green color kurti with embroidery",
+      "price": "599",
+      "mainPrice": "1499",
+      "off": "60",
+      "color": "green"
+    },
+    {
+      "id": "36",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/117628/320/320/153520965-117628676-1716547306.jpg",
+      "title": "Women's Pure Cotton Printed Saree with Separate Blouse",
+      "price": "650",
+      "mainPrice": "1000",
+      "off": "35",
+      "color": "gray"
+    },
+    {
+      "id": "37",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/113413/280/1/152053707-113413190-1616152959.jpg",
+      "title": "Cotton Pakistani Style With Heavy Embroidery Patches",
+      "price": "6500",
+      "mainPrice": "00",
+      "off": "00",
+      "color": "blue"
+    },
+    {
+      "id": "38",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/117335/320/320/153429952-117335905-1692609818.jpg",
+      "title": "Cotton Pakistani Style With Heavy Embroidery Patches",
+      "price": "899",
+      "mainPrice": "1299",
+      "off": "31",
+      "color": "pink"
+    },
+    {
+      "id": "39",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/107415/320/320/149932066-107415438-1659181954.jpg",
+      "title": "Raabta RWT-001T Mustard Tees With Shoulder Contrast Sca",
+      "price": "334",
+      "mainPrice": "1250",
+      "off": "73",
+      "color": "yellow"
+    },
+    {
+      "id": "40",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/105327/320/320/149167360-105327521-1664659530.jpg",
+      "title": "Raabta Women White Cold Shoulder Plain Top With Black K",
+      "price": "329",
+      "mainPrice": "999",
+      "off": "67",
+      "color": "white"
+    },
+    {
+      "id": "41",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/73438/320/320/130263874-73438773-1662584725.jpg",
+      "title": "Bhuwal Fashion Beige Lycra Saree...",
+      "price": "879",
+      "mainPrice": "2599",
+      "off": "66",
+      "color": "yellow"
+    },
+    {
+      "id": "42",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/90637/320/320/140074406-90637959-1660929891.jpg",
+      "title": "Fabster Women's smart fit straight multi Colour Kurti...",
+      "price": "479",
+      "mainPrice": "999",
+      "off": "52",
+      "color": "blue"
+    },
+    {
+      "id": "43",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/73439/320/320/130264833-73439949-1664743506.jpg",
+      "title": "Bhuwal Fashion Red Lycra Saree...",
+      "price": "699",
+      "mainPrice": "2110",
+      "off": "67",
+      "color": "red"
+    },
+    {
+      "id": "44",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/25723/320/320/100431306-25723328-1660925949.jpg",
+      "title": "Top Ethnic Present Blue Beautiful Gown",
+      "price": "899",
+      "mainPrice": "1499",
+      "off": "40",
+      "color": "blue"
+    },
+    {
+      "id": "45",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/112875/320/320/151853656-112875237-1610362520.jpg",
+      "title": "Ishrin Dress Materials",
+      "price": "567",
+      "mainPrice": "2499",
+      "off": "77",
+      "color": "gray"
+    },
+    {
+      "id": "46",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/89066/320/320/139435850-89066210-1664742947.jpg",
+      "title": "Bhuwal Fashion Chanderi Saree-BF5061PINK",
+      "price": "519",
+      "mainPrice": "1999",
+      "off": "74",
+      "color": "pink"
+    },
+    {
+      "id": "47",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/115839/320/320/152890831-115839118-1678911045.jpg",
+      "title": "BHAGYASHRAY Solid RED Crepe and Rasal Net Straigth Kur",
+      "price": "339",
+      "mainPrice": "1999",
+      "off": "83",
+      "color": "red"
+    },
+    {
+      "id": "48",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/117491/320/320/153478810-117491844-1704962765.jpg",
+      "title": "Yuvaa Flared/A-Line Gown (Pink)",
+      "price": "649",
+      "mainPrice": "1299",
+      "off": "50",
+      "color": "pink"
+    },
+    {
+      "id": "49",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/104418/320/320/148771027-104418723-1578332410.jpg",
+      "title": "Green Vanarasi Silk With Blouse And Body Embroidery",
+      "price": "1500",
+      "mainPrice": "1600",
+      "off": "6",
+      "color": "green"
+    },
+    {
+      "id": "50",
+      "img": "https://cdn.shopclues.com/images1/thumbnails/117501/320/320/153481751-117501704-1705478765.jpg",
+      "title": "Cholii Black Owl Womens Cotton Satin Black Deep V-Neck",
+      "price": "1999",
+      "mainPrice": "2500",
+      "off": "20",
+      "color": "black"
+    }
+  ],
+  "cart": [
+  ],
+  "like": [],
+  "user": []
+  
+}
